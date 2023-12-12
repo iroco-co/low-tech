@@ -4,3 +4,5 @@
 Slideshow about low-tech and digital.
 
 Sythesis of the [ADEME report](https://librairie.ademe.fr/dechets-economie-circulaire/5421-demarches-low-tech.html) with digital.
+
+Cf https://iroco-co.github.io/low-tech/
